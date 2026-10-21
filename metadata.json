@@ -1,0 +1,6 @@
+{
+  "name": "פארסיבּוֹט - מאמן שיחה בפרסית מדוברת ב-AI",
+  "description": "מאמן AI חכם לשיחה ותרגול בפרסית מדוברת (טהראנית) עם קלט קולי, הקראה קולית טבעית ותיקון שגיאות בזמן אמת - פרויקט כיתת נחשון כיתה י״ב",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
